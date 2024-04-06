@@ -1,6 +1,6 @@
 - Hi, I'm Maurice
 - I am interested in QEC, Q. Simulations, Q. Hardware
-- I am currently doing my masters at ETHZ/IBM Europe
+- I am currently doing my masters at ETHZ/IBM Research Europe
 - You can reach me per E-Mail: mhanisc@ethz.ch or through my LinkedIn: www.linkedin.com/in/mauricehanisch
 
 <!---
