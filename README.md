@@ -5,7 +5,6 @@ I'm a first-year PhD student in **Computing + Mathematical Sciences** at **Calte
 ## Research Interests
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&width=500&lines=%F0%9F%A7%AA%20ML%20for%20Quantum%20Chemistry;%F0%9F%94%AC%20ML%20for%20Materials%20Science;%E2%9A%9B%EF%B8%8F%20ML%20for%20Quantum%20Many-Body%20Systems;%F0%9F%94%A2%20Scientific%20Machine%20Learning)](https://git.io/typing-svg)
-
 ## Contact
 
 - 🌐 Website: [mauricedhanisch.github.io](https://mauricedhanisch.github.io)
