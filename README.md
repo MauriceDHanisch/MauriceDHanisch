@@ -1,15 +1,10 @@
 # Hi, I'm Maurice 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=PhD+student+%40+Caltech+CMS;ML+for+Quantum+Chemistry;ML+for+Materials+Science;Scientific+Machine+Learning;Kortschak+Fellow)](https://git.io/typing-svg)
-
 I'm a first-year PhD student in **Computing + Mathematical Sciences** at **Caltech**, working in [Anima Anandkumar's AI + Science lab](https://tensorlab.cms.caltech.edu/users/anima/). I am grateful to be fully funded by the Kortschak fellowship.
 
 ## Research Interests
 
-- 🧪 **ML for Quantum Chemistry**
-- 🔬 **ML for Material Sciences**
-- ⚛️ **ML for Quantum Many-Body Systems**
-- 🔢 **Scientific Machine Learning**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&width=500&lines=%F0%9F%A7%AA%20ML%20for%20Quantum%20Chemistry;%F0%9F%94%AC%20ML%20for%20Materials%20Science;%E2%9A%9B%EF%B8%8F%20ML%20for%20Quantum%20Many-Body%20Systems;%F0%9F%94%A2%20Scientific%20Machine%20Learning)](https://git.io/typing-svg)
 
 ## Contact
 
