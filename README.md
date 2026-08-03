@@ -12,8 +12,9 @@ I'm a first-year PhD student in **Computing + Mathematical Sciences** at **Calte
 - [Quantum ESPRESSO](https://gitlab.com/QEF/q-e): found and fixed a memory-alignment bug in the FFT backend that silently corrupted wavefunction transforms on optimized CPU builds, breaking correctness of the SCF calculation ([MR !2877](https://gitlab.com/QEF/q-e/-/merge_requests/2877))
 - [tblite](https://github.com/tblite/tblite): fixed spin-polarized (open-shell) restarts silently discarding the converged wavefunction and re-running the full SCF from scratch instead of resuming ([PR #298](https://github.com/tblite/tblite/pull/298)); found and fixed an OpenMP symbol collision between the published wheel and PyTorch that corrupted SCF convergence when both were imported together ([PR #341](https://github.com/tblite/tblite/pull/341))
 
-**Scientific Machine Learning**
+**HPC & Scientific Machine Learning**
 - [Neural Operator](https://github.com/neuraloperator/neuraloperator): added GroupNorm support to the reference FNO implementation ([PR #715](https://github.com/neuraloperator/neuraloperator/pull/715))
+- [HyperQueue](https://github.com/It4innovations/hyperqueue): fixed workers failing to rejoin a cluster after a brief network stall by retrying the connect+auth+registration handshake instead of giving up outright ([PR #1118](https://github.com/It4innovations/hyperqueue/pull/1118)); bounded the scheduler's MILP placement solve with a wall-clock time limit, fixing many-shape workloads that could hang the server for minutes to hours ([PR #1126](https://github.com/It4innovations/hyperqueue/pull/1126))
 
 **Systems**
 - [CheriBSD](https://github.com/CTSRD-CHERI/cheribsd): closed a vulnerability in libc's allocator (jemalloc) where a narrowed pointer could bypass CHERI's hardware memory protection ([PR #2448](https://github.com/CTSRD-CHERI/cheribsd/pull/2448))
