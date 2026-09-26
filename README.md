@@ -9,7 +9,6 @@ I'm a first-year PhD student in **Computing + Mathematical Sciences** at **Calte
 ## Open Source Contributions
 
 **Quantum Chemistry & Materials Science**
-- [Quantum ESPRESSO](https://gitlab.com/QEF/q-e): found and fixed a memory-alignment bug in the FFT backend that silently corrupted wavefunction transforms on optimized CPU builds, breaking correctness of the SCF calculation ([MR !2877](https://gitlab.com/QEF/q-e/-/merge_requests/2877))
 - [tblite](https://github.com/tblite/tblite): fixed spin-polarized (open-shell) restarts silently discarding the converged wavefunction and re-running the full SCF from scratch instead of resuming ([PR #298](https://github.com/tblite/tblite/pull/298)); found and fixed an OpenMP symbol collision between the published wheel and PyTorch that corrupted SCF convergence when both were imported together ([PR #341](https://github.com/tblite/tblite/pull/341))
 
 **HPC & Scientific Machine Learning**
